@@ -1,0 +1,14 @@
+C:\Users\John Wills\Desktop\SOSCSRPG\WPFUI\bin\Debug\WPFUI.exe.config
+C:\Users\John Wills\Desktop\SOSCSRPG\WPFUI\bin\Debug\WPFUI.exe
+C:\Users\John Wills\Desktop\SOSCSRPG\WPFUI\bin\Debug\WPFUI.pdb
+C:\Users\John Wills\Desktop\SOSCSRPG\WPFUI\obj\Debug\WPFUI.csprojAssemblyReference.cache
+C:\Users\John Wills\Desktop\SOSCSRPG\WPFUI\obj\Debug\MainWindow.g.cs
+C:\Users\John Wills\Desktop\SOSCSRPG\WPFUI\obj\Debug\App.g.cs
+C:\Users\John Wills\Desktop\SOSCSRPG\WPFUI\obj\Debug\WPFUI_MarkupCompile.cache
+C:\Users\John Wills\Desktop\SOSCSRPG\WPFUI\obj\Debug\WPFUI_MarkupCompile.lref
+C:\Users\John Wills\Desktop\SOSCSRPG\WPFUI\obj\Debug\MainWindow.baml
+C:\Users\John Wills\Desktop\SOSCSRPG\WPFUI\obj\Debug\WPFUI.g.resources
+C:\Users\John Wills\Desktop\SOSCSRPG\WPFUI\obj\Debug\WPFUI.Properties.Resources.resources
+C:\Users\John Wills\Desktop\SOSCSRPG\WPFUI\obj\Debug\WPFUI.csproj.GenerateResource.cache
+C:\Users\John Wills\Desktop\SOSCSRPG\WPFUI\obj\Debug\WPFUI.exe
+C:\Users\John Wills\Desktop\SOSCSRPG\WPFUI\obj\Debug\WPFUI.pdb
